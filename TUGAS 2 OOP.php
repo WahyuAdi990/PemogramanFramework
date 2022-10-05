@@ -3,7 +3,7 @@
 Class Mobil{
 public $nama;
 public $merk;
-function getInfo()$a{
+function getInfo(){
 echo "Nama mobil: ".$this->nama."<br/>";
 echo "Merk: ".$this->merk."<br/>";
 }
